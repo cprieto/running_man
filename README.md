@@ -11,7 +11,6 @@ For this local checkout:
 ```lua
 {
   dir = '/Users/cprieto/Code/running_man',
-  name = 'running_man',
   ft = 'rust',
   opts = {},
 }
